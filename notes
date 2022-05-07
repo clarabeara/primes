@@ -13,3 +13,26 @@ Here are some geeky package managers
 * Ubuntu linux (ubuntu is a flavor of linux)... apt 
 * centos linux... yum
 * 
+
+Files are the permanent storage of data. they always exist in a directory.
+directory- in an operating system, there is something called a file system. the root directory of the file system is like the trunk of a tree-there is just one.
+one. within the root directory there can be sub directories. these are like the lowest branches on a tree, connected directly to the trunk. these sub 
+directories can contain other sub directories, which are connected to the branches, and so on. 
+
+the root directory on mac and linux is called /
+the root directory on windows is called c:
+(there can be other file systems on the computer, with different root directory names, but the above names are most common)
+the "path" to a file is all directories usually start with the root directory and include th file name.
+example filepath on mac or linux: /usr/local/bin/vim
+the first slash is the root directory, and all of the slashes after that are separators. each word is a sub directry, except for the last one wgich ia the file
+example filepath on windows: c:\windows\stuffez\my.dll
+notice that the separating slashes are back slashes for windows
+
+pwd stands for present working directory and will show you what directory you are currently working from
+cd stands for change directory and... well, changes the directory. if you type 'cd ..' it brings you back to the previous "branch", and to go further from the 
+root diectorytype the name of the branch you would like to enter. for example, typing 'cd clara' will bring you to the sub directory 'clara'.
+ls stands for list, and lists all the files within the current directory
+typing 'man' before the command will give you a manual of all the things you can do with that command.
+every user has a home directory, and typing cd without anything after it will bring you back to your home directory
+typing 'who am i' will let you know what user you are using
+mkdir lets you create a directory. for example, if you typed 'mkdir src' a directory called src would be created
