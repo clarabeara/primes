@@ -36,3 +36,12 @@ typing 'man' before the command will give you a manual of all the things you can
 every user has a home directory, and typing cd without anything after it will bring you back to your home directory
 typing 'who am i' will let you know what user you are using
 mkdir lets you create a directory. for example, if you typed 'mkdir src' a directory called src would be created
+
+to begin the link between github and local directiries, we need to 'clone' the repository 'project' with a command like the following:
+git clone https://github.com/clarabeara/primes.git
+
+
+
+
+
+
