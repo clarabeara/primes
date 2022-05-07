@@ -41,6 +41,12 @@ to begin the link between github and local directiries, we need to 'clone' the r
 git clone https://github.com/clarabeara/primes.git
 to update the copy in the git directory when the files on GitHub are newer: git pull --rebase
 to save and quit out of a file in vim type two capital Zs in a row from escape mode
+git commands for synchronizing files:   
+git pull --rebase # fetch the changes from the github server 
+git status # see the status of the local files
+git add -u # add all of the changed files to be committed
+git commit -m"this is my message" # commit the changes with a message
+git push # send the local commits back up to GitHub
 
 
 
