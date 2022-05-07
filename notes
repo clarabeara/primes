@@ -1,0 +1,15 @@
+hardware-actual computer/ physical objects
+software-ones and zeros flying around
+operationg system-software that coordinates other programs
+kinds of operating systems:
+* Microsoft Windows... most popular for mere mortals
+* Apple Mac os... Only runs on hardware made by apple
+* Linux... This is the dominant operating system for computers that run websites and other "invisible" software
+
+package managers- help with installing software on operating systems. Some package managers are for mere mortals, and other are for geeks.
+"app stores" are examples of package managers for mere mortals.
+Here are some geeky package managers
+* Apple Mac os... Homebrew 
+* Ubuntu linux (ubuntu is a flavor of linux)... apt 
+* centos linux... yum
+* 
