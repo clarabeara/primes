@@ -6,11 +6,11 @@ kinds of operating systems:
 * Apple Mac os... Only runs on hardware made by apple
 * Linux... This is the dominant operating system for computers that run websites and other "invisible" software
 
-package managers- help with installing software on operating systems. Some package managers are for mere mortals, and other are for geeks.
-"app stores" are examples of package managers for mere mortals.
+package managers- help with installing software on operating systems. Some package managers are for mere mortals, and others are for geeks.
+"app stores" are examples of package managers for... normal people.
 Here are some geeky package managers
 * Apple Mac os... Homebrew 
-* Ubuntu linux (ubuntu is a flavor of linux)... apt 
+* Ubuntu linux (ubuntu is a "flavor" of linux)... apt 
 * centos linux... yum
 * 
 
@@ -22,15 +22,15 @@ directories can contain other sub directories, which are connected to the branch
 the root directory on mac and linux is called /
 the root directory on windows is called c:
 (there can be other file systems on the computer, with different root directory names, but the above names are most common)
-the "path" to a file is all directories usually start with the root directory and include th file name.
+the "path" to a file is all directories usually start with the root directory and include the file name.
 example filepath on mac or linux: /usr/local/bin/vim
-the first slash is the root directory, and all of the slashes after that are separators. each word is a sub directry, except for the last one wgich ia the file
+the first slash is the root directory, and all of the slashes after that are separators. each word is a sub directry, except for the last one which is the file
 example filepath on windows: c:\windows\stuffez\my.dll
 notice that the separating slashes are back slashes for windows
 
 pwd stands for present working directory and will show you what directory you are currently working from
 cd stands for change directory and... well, changes the directory. if you type 'cd ..' it brings you back to the previous "branch", and to go further from the 
-root diectorytype the name of the branch you would like to enter. for example, typing 'cd clara' will bring you to the sub directory 'clara'.
+root diectory type the name of the branch you would like to enter. for example, typing 'cd clara' will bring you to the sub directory 'clara'.
 ls stands for list, and lists all the files within the current directory
 typing 'man' before the command will give you a manual of all the things you can do with that command.
 every user has a home directory, and typing cd without anything after it will bring you back to your home directory
